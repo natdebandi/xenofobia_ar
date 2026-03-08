@@ -1,2 +1,32 @@
+# Entorno y secretos
 .claude/
-DNU_Data/tweets_filtrados_combinados.csv
+.env
+
+# Datos grandes
+data/
+DNU_Data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.cpython-*.pyc
+*.cpython-*.pyo
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Distribución / build
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ciai/
