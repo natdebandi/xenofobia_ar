@@ -6,6 +6,10 @@
 data/
 DNU_Data/
 
+# Outputs generados (imágenes, CSVs, JSONLs)
+outputs/
+outs_temp/
+
 # Python
 __pycache__/
 *.py[cod]
