@@ -5,6 +5,7 @@
 # Datos grandes
 data/
 DNU_Data/
+data_original/*.csv
 
 # Outputs generados (imágenes, CSVs, JSONLs)
 outputs/
