@@ -2,14 +2,21 @@
 .claude/
 .env
 
-# Datos grandes
+# Datos — ningún archivo de datos se versiona
 data/
+data_original/
+DNU_data/
 DNU_Data/
-data_original/*.csv
 
-# Outputs generados (imágenes, CSVs, JSONLs)
+# Outputs generados (imágenes, HTMLs, CSVs)
 outputs/
 outs_temp/
+
+# Carpetas locales de trabajo (versiones anteriores y experimentos)
+V1*/
+V2*/
+V3*/
+Relmecs/
 
 # Python
 __pycache__/
